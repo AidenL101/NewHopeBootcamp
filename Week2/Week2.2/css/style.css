@@ -26,34 +26,34 @@ body {
     z-index: -1;  
 }
 
-h1 {
+h1 { 
+    font-size: 30px;
 
-    /* Set the font size to 30 pixels */
+
 
 }
 
 h2 {
-    /* Set the font size to 25 pixels */
-
+   font-size: 25px;
 }
 
 h3 {
-    /* Set the font size to 20 pixels */
+   font-size: 20px;
 
 }
 
 p {
-    /* Set the font size to 18 pixels */
+    font-size: 18px;
 
 }
 
 .caption-name {
-    /* set font size to 15 pixels and make text bold */
+    font-size: 15px;
 
 }
 
 .caption-title {
-    /* set font size to 13 pixels */
+    font-size: 13px;
 
 }
 
@@ -64,11 +64,11 @@ img {
     object-fit: cover;
 }
 
-/* .container {
+ .container {
     display: inline-block;
-} */
+} 
 
-/* nav {
+nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -76,9 +76,9 @@ img {
     padding: .75rem;
     background-color: #bb97eb;
     z-index: 1000000000;
-} */
+} 
 
-/* nav li {
+ nav li {
     display: inline;
     margin-right: 1rem;
-} */
+} 
