@@ -30,29 +30,60 @@ h1 {
     font-size: 30px;
 
 
+<<<<<<< HEAD
+=======
+    /* Set the font size to 30 pixels */
+    font-size: 30px;
+
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 
 }
 
 h2 {
+<<<<<<< HEAD
    font-size: 25px;
 }
 
 h3 {
    font-size: 20px;
+=======
+    /* Set the font size to 25 pixels */
+    font-size: 25px;
+
+}
+
+h3 {
+    /* Set the font size to 20 pixels */
+    font-size: 20px;
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 
 }
 
 p {
+<<<<<<< HEAD
+=======
+    /* Set the font size to 18 pixels */
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
     font-size: 18px;
 
 }
 
 .caption-name {
+<<<<<<< HEAD
     font-size: 15px;
+=======
+    /* set font size to 15 pixels and make text bold */
+    font-size: 15px;
+    font-weight: bold;
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 
 }
 
 .caption-title {
+<<<<<<< HEAD
+=======
+    /* set font size to 13 pixels */
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
     font-size: 13px;
 
 }
@@ -64,9 +95,15 @@ img {
     object-fit: cover;
 }
 
+<<<<<<< HEAD
  .container {
     display: inline-block;
 } 
+=======
+.container {
+    display: inline-block;
+}
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
 
 nav {
     position: fixed;
@@ -74,11 +111,18 @@ nav {
     left: 0;
     width: 100%;
     padding: .75rem;
-    background-color: #bb97eb;
+    background-color: #a1eb97;
     z-index: 1000000000;
 } 
 
+<<<<<<< HEAD
  nav li {
     display: inline;
     margin-right: 1rem;
 } 
+=======
+nav li {
+    display: inline;
+    margin-right: 1rem;
+}
+>>>>>>> ac9382154db3b7f02012f00ac0f9a4e8c36f32e1
